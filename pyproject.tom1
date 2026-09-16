@@ -1,0 +1,4 @@
+[tool.pytest.int_options]
+pythonpath = [
+    "."
+]
